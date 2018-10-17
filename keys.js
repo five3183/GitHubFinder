@@ -1,4 +1,4 @@
-// This is used to get the KEYs from the keys.json file to keep them secret.  Users will need to input their own keys in order for this program to work. 
+// This is used to get the KEYs from the keys.json file to keep them secret. keys.json is in the gitignore file.  Users will need to input their own keys in order for this program to work. 
 
 class Keys {
    async getKeys() {
